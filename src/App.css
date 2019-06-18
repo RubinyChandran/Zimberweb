@@ -1,0 +1,91 @@
+.link-header{
+  margin:10px;
+  font-size:20px;
+  text-decoration-style: wavy;
+  text-decoration: none;
+}
+
+.custom-page-statement{
+  font-size:50px;
+}
+
+.button-header{
+  background-color:rgb(175, 101, 163);
+  border: none;
+  text-align: center;
+  margin:10px;
+  cursor: pointer;
+  font-family:'sans-serif';
+  align-content: flex-end;
+}
+.button-header2{
+  background-color:#3b6bb4;
+  border: none;
+  text-align: center;
+  margin:10px;
+  cursor: pointer;
+  font-family:'sans-serif';
+}
+.button-header1{
+  background-color:#2867f0f1;
+  border: none;
+
+  text-align: center;
+  margin:20px;
+  cursor: pointer;
+  font-family:'sans-serif';
+}
+
+.admin-list{
+  display:inline;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.back-ground{
+  background-image: url('./media/room2.jpg');
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height:930px; /* You must set a specified height */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.back-ground1{ 
+  background-image: url('./media/grey.jpg');
+  background-color: #fffdfd; /* Used if the image is unavailable */
+  height:930px; /* You must set a specified height */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+ }
+ .back-ground2{ 
+  /* background-image: url('./media/grey.jpg'); */
+  background-color: #fffdfd; /* Used if the image is unavailable */
+  height:930px; /* You must set a specified height */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+ }
+.notice-dialog{
+  text-align:center;
+  font-size: 10px;
+  font-variant: inherit;
+  color:grey;
+  margin: 5px;
+  font-family: sans-serif;
+}
+.Body{
+  align-content:  left;
+  text-align:left;
+  font-size: 50px;
+  font-variant: inherit;
+  color:rgb(233, 215, 138);
+  margin: 20px;
+  font-family: "Helvetica Neue";
+}
+.Body1{
+  align-content: left;
+  text-align:left;
+  font-size: 50px;
+  font-variant: inherit;
+  color: aqua;
+  margin: 20px;
+  font-family: sans-serif;
+}
